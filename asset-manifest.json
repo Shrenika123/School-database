@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/School-database/static/css/main.3b1e677e.chunk.css",
+    "main.js": "/School-database/static/js/main.4600cf9a.chunk.js",
+    "main.js.map": "/School-database/static/js/main.4600cf9a.chunk.js.map",
+    "runtime-main.js": "/School-database/static/js/runtime-main.9ea27a49.js",
+    "runtime-main.js.map": "/School-database/static/js/runtime-main.9ea27a49.js.map",
+    "static/js/2.42c1fb2c.chunk.js": "/School-database/static/js/2.42c1fb2c.chunk.js",
+    "static/js/2.42c1fb2c.chunk.js.map": "/School-database/static/js/2.42c1fb2c.chunk.js.map",
+    "index.html": "/School-database/index.html",
+    "precache-manifest.34145187cd9bf5a0c9d3b49e5342a5e2.js": "/School-database/precache-manifest.34145187cd9bf5a0c9d3b49e5342a5e2.js",
+    "service-worker.js": "/School-database/service-worker.js",
+    "static/css/main.3b1e677e.chunk.css.map": "/School-database/static/css/main.3b1e677e.chunk.css.map",
+    "static/js/2.42c1fb2c.chunk.js.LICENSE.txt": "/School-database/static/js/2.42c1fb2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ea27a49.js",
+    "static/js/2.42c1fb2c.chunk.js",
+    "static/css/main.3b1e677e.chunk.css",
+    "static/js/main.4600cf9a.chunk.js"
+  ]
+}
